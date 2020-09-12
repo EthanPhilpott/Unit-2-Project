@@ -1,12 +1,26 @@
 body {
     background-color: lightgray;
-    color: dimgrey;
+    color: darkslategrey;
     font-family: serif;
     font-size: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-shadow: 5px, 5px, black;
+
+
+
 }
 head {
-    color: darkgray;
+    color: darkslategrey;
+    text-shadow: 5px, 5px, black;
     font-family: sans-serif;
     background-color: lightgray;
-    
+    font-size: 110%;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: bold;
+    margin-top: 25px;
+
 }
+
+
