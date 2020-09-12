@@ -3,8 +3,8 @@ body {
     color: darkslategrey;
     font-family: serif;
     font-size: 16px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
 
 }
 head {
@@ -12,12 +12,12 @@ head {
     font-family: sans-serif;
     background-color: lightgray;
     font-size: 110%;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-weight: bold;
     margin-top: 25px;
-    background-image: linear-gradient(180deg, black, lightgrey);
-    
+    background: linear-gradient(#e4e4e4, #a2a3af);
+
 }
 
 
