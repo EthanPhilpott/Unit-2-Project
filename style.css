@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: lightgray;
     color: darkslategrey;
@@ -24,3 +25,31 @@ head {
 }
 
 
+=======
+head {
+    font-family: sans-serif;
+    font-size: 110%;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: bold;
+    margin-top: 25px;
+
+}
+body {
+    color: rgb(58, 53, 53);
+    font-family: serif;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: outset;
+    border: 5px ,black;
+    text-align: center;
+    background-color: lightgray;
+    
+}
+
+
+
+
+
+>>>>>>> f4ab90264fd1b49490de67b3341e7a84f50ed8d3
