@@ -102,3 +102,25 @@ function BinToDec (bin) {
 }
 
 // console.log(BinToDec("0001 1000"))
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
+
+choice = prompt("Type 1 for Decimal To Binary\nType 2 for Decimal to Hexadecimal\nType 3 for Binary to Decimal\nType 4 for Hexadecimal to Decimal");
+number = prompt("Type what you want to convert:")
+let returnValue;
+
+switch( choice ) {
+  case 1:
+    returnValue = DecToBin(number);
+    break;
+  case 2:
+    returnValue = DecToHex(number);
+    break;
+  case 3:
+    returnValue = BinToDec(number);
+    break;
+  case 4:
+    returnValue = HexToDec(number);
+    break;
+}
+confirm(`Your conversion outputted ${returnValue}`)
