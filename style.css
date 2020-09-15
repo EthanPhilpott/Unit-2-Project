@@ -1,20 +1,5 @@
-body {
-    background-color: lightgray;
-    color: darkslategrey;
-    font-family: serif;
-    font-size: 16px;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-shadow: 5px, 5px, black;
-
-
-
-}
 head {
-    color: darkslategrey;
-    text-shadow: 5px, 5px, black;
     font-family: sans-serif;
-    background-color: lightgray;
     font-size: 110%;
     margin-left: 50px;
     margin-right: 50px;
@@ -22,5 +7,20 @@ head {
     margin-top: 25px;
 
 }
+body {
+    color: rgb(58, 53, 53);
+    font-family: serif;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: outset;
+    border: 5px ,black;
+    text-align: center;
+    background-color: lightgray;
+    
+}
+
+
+
 
 
