@@ -103,6 +103,7 @@ function BinToDec (bin) {
 
 // console.log(BinToDec("0001 1000"))
 
+
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
 choice = prompt("Type 1 for Decimal To Binary\nType 2 for Decimal to Hexadecimal\nType 3 for Binary to Decimal\nType 4 for Hexadecimal to Decimal");
